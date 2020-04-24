@@ -1,3 +1,3 @@
-# momentum
+# Momentum (JavaScript)
 
 Vanilla JS Course
